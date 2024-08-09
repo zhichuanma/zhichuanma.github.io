@@ -1,21 +1,21 @@
 ---
-title: "Confidence-Aware Object Capture for a Floating-Base Manipulator"
+title: "Multi-criteria analysis based on Life-cycle assessment of a positive energy district accounting for a country context – application to real case study"
 collection: projects
 toc: true
-date: 2023-04-25
-permalink: /projects/confidence-aware/
-period: Jan. 2023 - May 2023
-abstract: <b><i>Research project participated @ CUHK-Shenzhen RAIL.</i></b>  My final year project proposed a control framework for manipulator grasping objects under base disturbance. However, the success rate is limited due to a lack of confidence evaluation of object motion prediction. This project aims to fill this gap by introducing confidence analysis. Plus, we are pursuing a physical demonstration with a real robot.  
-excerpt: "<img src='image/confidence.gif' width='600px'>"
-course: True
+date: 2024-08-09
+permalink: /projects/REHO_LCA/
+period: Mar. 2024 - Sept 2024
+abstract:   
+excerpt: "<img src='/images/UCLouvain_intern_2024/district_documentation.svg' width='600px'>"
+course: False
 ---
 
 {% include base_path %}
 
-* Research project participated at CUHK-Shenzhen robotics & AI lab
-* Sept. 2022 -- May 2023
-* Supervisor: [Prof. Huihuan Alex Qian](https://sse.cuhk.edu.cn/en/faculty/qianhuihuan)
-* Project Mentor: [Dr. Ruoyu Xu](https://xuruoyuroy.github.io/)
-* Keywords: *object capture*, *floating-base manipulator*, *motion planning*, *confidence analysis*
+* Research project at Institute of Mechanics, Materials and Civil Engineering([IMMC](https://uclouvain.be/en/research-institutes/immc)), UCLouvain, Belgium
+* March. 2024 -- Sept. 2024
+* Supervisor: [Prof. Herve Jeanmart](https://scholar.google.com/citations?user=cZ5224EAAAAJ&hl=en)
+* Project Mentor: [Postdoc. Gauthier Limpens](https://scholar.google.fr/citations?user=rOP9mX4AAAAJ&hl=fr)
+* Keywords: *LCA*, *Multi-objective optimization*, *Energy system*, *Dantzig–Wolfe decomposition*
 
 ## Introduction
