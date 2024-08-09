@@ -25,6 +25,35 @@ Is the carbon footprint and cost of the renewable technologies today able to rep
 
 This study bridges the gap by integrating life cycle assessment (LCA) and cost estimation methodologies, resulting in a comprehensive bottom-up model that simultaneously evaluates the cost and carbon footprint, with particular attention to the scaling effect. This model is then applied to scrutinize the manufacturing processes of Proton Exchange Membrane Electrolysis Cells (PEMEC) and Solid Oxide Electrolysis Cells (SOEC). The assessment incorporates a detailed manufacturing process description and equipment inventory. It is found as manufacturing capacity increases, both the cost and carbon footprint decrease.
 
+## Part of results
+
+<div class="gallery">
+    <!-- PEM LCA -->
+    <a href="/images/EPFL_intern_2023/normalizedLCA_PEM.png" data-lightbox="mygallery" data-title="Image 1 Description">
+        <img src="/images/EPFL_intern_2023/normalizedLCA_PEM.png" alt="Image 1" style="width: 100%; height: auto;">
+    </a>
+    <!-- SOEC LCA -->
+    <a href="/images/EPFL_intern_2023/normalizedLCA_SOEC.png" data-lightbox="mygallery" data-title="Image 2 Description">
+        <img src="/images/EPFL_intern_2023/normalizedLCA_SOEC.png" alt="Image 2" style="width: 100%; height: auto;">
+    </a>
+    <!-- cost evolution -->
+    <a href="/images/EPFL_intern_2023/cost_evolution.png" data-lightbox="mygallery" data-title="Image 2 Description">
+        <img src="/images/EPFL_intern_2023/cost_evolution.png" alt="Image 2" style="width: 100%; height: auto;">
+    </a>
+    <!-- Container breakdown Images -->
+    <div class="gallery" style="display: flex; justify-content: space-between; gap: 10px;">
+        <!-- cost breakdown PEM -->
+        <a href="/images/EPFL_intern_2023/PEM_cost_breakdown_100.png" data-lightbox="mygallery" data-title="Image 3 Description" style="flex: 1;">
+            <img src="/images/EPFL_intern_2023/PEM_cost_breakdown_100.png" alt="Image 3" style="width: 100%; height: auto;">
+        </a>
+        <!-- cost breakdown SOEC -->
+        <a href="/images/EPFL_intern_2023/SOEC_cost_breakdown_100.png" data-lightbox="mygallery" data-title="Image 4 Description" style="flex: 1;">
+            <img src="/images/EPFL_intern_2023/SOEC_cost_breakdown_100.png" alt="Image 4" style="width: 100%; height: auto;">
+        </a>
+    </div>
+</div>
+
+
 ## Publication
 
 Publications is still ongoing. We have plans to publish it to <b><i>environment science and technology</i></b>. It is estimated to submit for review by the end of this year. The internship report has been published in [EPFL Infoscience as master thesis](https://infoscience.epfl.ch/entities/publication/f07b1029-e784-4db2-a971-062ead30419e) or you can also download by clicking [here](/files/Master%201%20Thesis.pdf).
