@@ -18,3 +18,14 @@ Here is a showcase of some of my previous and ongoing projects. This page may be
     {% include archive-single.html %}
   {% endif %}
 {% endfor %}
+
+## Couse Projects
+---
+
+{% assign sortedProjects = site.projects | sort: 'date' | reverse %}
+
+{% for post in sortedProjects %}
+  {% if post.course == true %}
+    {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
