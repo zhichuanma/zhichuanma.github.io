@@ -25,6 +25,14 @@ Is the carbon footprint and cost of the renewable technologies today able to rep
 
 This study bridges the gap by integrating life cycle assessment (LCA) and cost estimation methodologies, resulting in a comprehensive bottom-up model that simultaneously evaluates the cost and carbon footprint, with particular attention to the scaling effect. This model is then applied to scrutinize the manufacturing processes of Proton Exchange Membrane Electrolysis Cells (PEMEC) and Solid Oxide Electrolysis Cells (SOEC). The assessment incorporates a detailed manufacturing process description and equipment inventory. It is found as manufacturing capacity increases, both the cost and carbon footprint decrease.
 
+## Main achievements
+
+* Did the cost analysis and LCA for SOEC and PEMEC
+* Concluded production line of SOEC and PEMEC from industrial reports and other literatures;
+* Proposed new LCA methodology with the consideration of scale-up effect
+* Created databases for costs and environmental impacts by directly contacting manufactuers
+* Predicted the future costs as well as environmental impacts for water electrolysis industry 
+
 ## Part of results
 
 <div class="gallery">
