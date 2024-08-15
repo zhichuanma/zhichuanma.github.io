@@ -19,7 +19,7 @@ Here is a showcase of some of my previous and ongoing projects. This page may be
   {% endif %}
 {% endfor %}
 
-## Couse Projects
+## Course Projects
 ---
 
 {% assign sortedProjects = site.projects | sort: 'date' | reverse %}
