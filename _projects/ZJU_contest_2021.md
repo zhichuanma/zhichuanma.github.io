@@ -95,3 +95,11 @@ This project aims to design an electro-fermentation methane production device fo
 </a>
 
 </div>
+
+## Publications
+
+2 patents can be downloaded here.
+
+1. [Turbulent flow type reaction kettle for producing methane](https://patents.google.com/patent/CN215050357U/en)
+
+2. [Biogas preparation device and method](https://patents.google.com/patent/CN113234590B/en)
