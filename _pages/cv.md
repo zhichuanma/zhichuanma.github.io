@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-<iframe src="/files/Zhichuan MA CV_EN" style="width:100%; height:1414px;" frameborder="0"></iframe>
+<iframe src="/files/Zhichuan MA CV_EN.pdf" style="width:100%; height:1414px;" frameborder="0"></iframe>
