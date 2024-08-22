@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<button id="toggleButton" class="btn btn-primary" onclick="toggleCV()">切换中文简历</button>
+Click this <button id="toggleButton" class="btn btn-primary" onclick="toggleCV()">切换中文简历</button> button to change the language between Chinese and English: 
 
 <iframe id="englishCV" src="/files/Zhichuan MA_CV_EN.pdf" style="width:100%; height:1414px;" frameborder="0"></iframe>
 <iframe id="chineseCV" src="/files/Zhichuan MA_CV_CN.pdf" style="width:100%; height:1414px; display:none;" frameborder="0"></iframe>
