@@ -52,42 +52,12 @@ The current achievements are:
 * Removed double counting for the datas from ecoinvent database
 * Created mapping files with the machine learning methods (*eg. we need to map the technologies in REHO with the activities in Ecoinvent. The machine learning tool could read the technologies' text and map it to some most probable activities in Ecoinvent (highest similarities)*)
 * Integrated the LCA framework into both the AMPL model and python scripts
-* Did a case study with old version of REHO for a real community in Spain
+* Did Normalization
+* Conducted a Case study for Lugaritz community in Spain
 
-Still on process:
+## Final Results
 
-* Doing the normalization of the database for MOO (A different way of normalization is being used)
-* Do a new case study with the new version of REHO
-* Fix any potential bugs
-* Write reports
+Presentations can be seen by clicking [here](/images/UCLouvain_intern_2024/Internship_presentation_Zhichuan.pdf).
 
-## Intermediate Results
+Final reports can be downloaded by clicking [here](/files/Master 2 Thesis.pdf)
 
-Since the project is still ongoing, what I have are just intermidiate results. They have not examined by myself. This part will be updated after I finalize the whole project.
-
-**Here I also just put part of them.**
-
-The case study done for Spain:
-<div class="gallery">
-    <a href="/images/UCLouvain_intern_2024/VEO_Spain.png" data-lightbox="mygallery" data-title="Image 1 Description">
-        <img src="/images/UCLouvain_intern_2024//VEO_Spain.png" alt="Image 1" style="width: 100%; height: auto;">
-    </a>
-    <a href="/images/UCLouvain_intern_2024/cost.png" data-lightbox="mygallery" data-title="Image 1 Description">
-        <img src="/images/UCLouvain_intern_2024/cost.png" alt="Image 1" style="width: 100%; height: auto;">
-    </a>
-    <!-- <a href="/images/UCLouvain_intern_2024/gwp.png" data-lightbox="mygallery" data-title="Image 1 Description">
-        <img src="/images/UCLouvain_intern_2024/gwp.png" alt="Image 1" style="width: 100%; height: auto;">
-    </a>
-    <a href="/images/UCLouvain_intern_2024/energyprofile.png" data-lightbox="mygallery" data-title="Image 1 Description">
-        <img src="/images/UCLouvain_intern_2024/energyprofile.png" alt="Image 1" style="width: 100%; height: auto;">
-    </a> -->
-</div>
-
-New LCA methodologies:
-<a href="/images/UCLouvain_intern_2024/methodology.png" data-lightbox="mygallery" data-title="Image 1 Description">
-        <img src="/images/UCLouvain_intern_2024/methodology.png" alt="Image 1" style="width: 100%; height: auto;">
-</a>
-The methodology I plan to use for normalization:
-<a href="/images/UCLouvain_intern_2024/Normalization.png" data-lightbox="mygallery" data-title="Image 1 Description">
-        <img src="/images/UCLouvain_intern_2024/Normalization.png" alt="Image 1" style="width: 100%; height: auto;">
-</a>
